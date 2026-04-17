@@ -195,18 +195,50 @@ https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3
 #KODIPROP:inputstream.adaptive.license_key=1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" group-title="Liga Inggris EPL", Now Sports 1 PL
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/nowspl1.m3u8
+#EXTINF:-1 tvg-id="UNIVERSO (East).us" tvg-logo="https://i.ibb.co.com/1nn4svg/universosports.png" group-title="Liga Inggris EPL", UNIVERSO (EAST)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 
-#EXTINF:-1 group-title="Liga Inggris EPL" tvg-id="usanetworkeast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/640px-USA_Network_logo_%282016%29.svg.png",USA Network 
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/usan2.m3u8
+#EXTINF:-1 group-title="Liga Inggris EPL"  tvg-logo="https://thumbor.prod.vidiocdn.com/S1YVrsYE0Fm49BGKhIgqkpnEk8M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png", CTV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/9182.drm
+https://aspaltvpasti.top/11111/9182.mpd
 
-#EXTINF:-1 group-title="Liga Inggris EPL" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737",NBC Sport - Peacock
+#EXTINF:-1 group-title="Liga Inggris EPL"  tvg-logo="https://thumbor.prod.vidiocdn.com/5uxtD9zKbgyCgAjpj6W3TwkqO2A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png", CTV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/9183.drm
+https://aspaltvpasti.top/11111/9183.mpd
+
+#EXTINF:-1 group-title="Liga Inggris EPL" tvg-logo="https://i.ibb.co.com/JwZ1RxfF/mono29.png" tvg-id="MONO29.th" , MONO 29 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://cnt1-streamer8.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/47Thzv8/skyspnz8.png" group-title="Liga Inggris EPL", Sky Sport 8 PL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc
+https://sky-nz.b-cdn.net/skysport8/master.mpd
+
+#EXTINF:-1 group-title="Liga Inggris EPL;Liga Bola Dunia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv7q1c7jYr_59IrpodB5D8N3rsXlRaPFsS0RUoN6SJHbFL3WRoOWWl_tWky5OkiMzDsooCJdddt5F5fCvvzJkSN7rgO6Wkxqur2QQSO7kquYBEuEF6zL5O-ry61PPpJige_otj9jH1_5qX0T_ZbvG1DPl_xWXic3fBi2JlieIVyLoOYki5Q0EZV8yXjCwQ/s700/TNT%20SPORTS%201.png",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(knbc)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 group-title="Liga Bola Dunia" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/t1k26d1616932441.png", Sport SK 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -244,94 +276,9 @@ https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="Liga Bola Dunia;Liga Inggris EPL",Nova Sport SK 2
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Liga Inggris EPL",Bein Mena 1 Connect
-http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016907&extension=ts&play_token=IUyVceMkpw
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Liga Inggris EPL",Bein Mena 2 Connect
-http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016908&extension=ts&play_token=TNy7Mwz8jF
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Liga Inggris EPL",Bein Mena 3 Connect 
-http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016909&extension=ts&play_token=sId510TUhY
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Liga Inggris EPL",Bein Mena 4 Connect
-http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016910&extension=ts&play_token=a3jMH7tRoz
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Liga Inggris EPL",Bein Mena 5 Connect
-http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016911&extension=ts&play_token=LY7EIy8D13
-
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Liga Inggris EPL",Bein Mena 6 Connect
-http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016912&extension=ts&play_token=KxiIIDjeEh
-
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Liga Inggris EPL",Bein Mena 7 Connect
-http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016913&extension=ts&play_token=udW29GNpdU
-
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Liga Inggris EPL",Bein Mena 8 Connect
-http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016914&extension=ts&play_token=j4VindxtP8
-
-
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="Liga Inggris EPL",Bein Mena 9 Connect
-http://line.boom-ott.ru:80/play/live.php?mac=00:1A:79:D2:18:97&stream=1016915&extension=ts&play_token=cuIMIiu0u7
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://bioact.ir/wp-content/uploads/2024/11/Persiana-Sport-Logo-in-bioact.r.png" group-title="Liga Inggris EPL",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1696317833.png" group-title="Liga Inggris EPL",SkySports Premier League
-https://tiger-hub.vercel.app/SkySports-premire_League/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664576894.png" group-title="Liga Inggris EPL",SkySports Football
-https://tiger-hub.vercel.app/SkySports-Football/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1712889285.png" group-title="Liga Inggris EPL",SkySports Mix
-https://tiger-hub.vercel.app/SkySports-mix/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLNam9L49F5ghUNrrBX4ilzu0LLyfjzLmqSw&usqp=CAU" group-title="Liga Inggris EPL",Arena Sports Premium 1
-https://tiger-hub.vercel.app/Arena-Sports/Premium-1/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLNam9L49F5ghUNrrBX4ilzu0LLyfjzLmqSw&usqp=CAU" group-title="Liga Inggris EPL",Arena Sports Premium 2
-https://tiger-hub.vercel.app/Arena-Sports/Premium_2/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLNam9L49F5ghUNrrBX4ilzu0LLyfjzLmqSw&usqp=CAU" group-title="Liga Inggris EPL",Arena Sports Premium 3
-https://tiger-hub.vercel.app/Arena-Sports/Premium_3/tracks-v1a1/mono.ts.m3u8
-
-EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax01bkp.png" group-title="Liga Inggris EPL",Monomax 1
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e109.hellotherepadawan.org/v5/0NKRyvWlR--ixZ4N37PRmA/1756820816/eb79b2290aed13cdd693ebbf408b324d/GrZSIYYt70zvJjeYjWNJ4w/1756831496/live/lx-origin/th-monomax01bkp_720/chunks.m3u8
-
-EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax02bkp.png" group-title="Liga Inggris EPL",Monomax 2
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e102.hellotherepadawan.org/v5/JYjDcAJqDGhIh7NTGA3xHA/1756821117/0c97fa64d36e19348bb46d25cd9d737e/MVs7chatfKCYqNOXInAxXQ/1756831797/live/lx-origin/th-monomax02bkp_720/chunks.m3u8
-
-EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax03bkp.png" group-title="Liga Inggris EPL",Monomax 3
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e101.hellotherepadawan.org/v5/a1kcVpcLeXE07XMD7EKk5Q/1756821322/eb79b2290aed13cdd693ebbf408b324d/nKYKhoE68rEwFmnHquwO1A/1756832002/live/lx-origin/th-monomax03bkp_720/chunks.m3u8
-
-EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax04bkp.png" group-title="Liga Inggris EPL",Monomax 4
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e107.hellotherepadawan.org/v5/hkrs3fJqpLkytFpsV1gcAw/1756821551/0c97fa64d36e19348bb46d25cd9d737e/pR18yIApw4qfCX30JSDtQg/1756832231/live/lx-origin/th-monomax04bkp_720/chunks.m3u8
-
-EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax05bkp.png" group-title="Liga Inggris EPL",Monomax 5
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e111.hellotherepadawan.org/v5/6ylvjb7DVqXiYNZ69qIQhg/1756821739/eb79b2290aed13cdd693ebbf408b324d/Blj9I7X4w3R43SEVG86Cmg/1756832419/live/lx-origin/th-monomax05bkp_720/chunks.m3u8
-
-EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax06bkp.png" group-title="Liga Inggris EPL",Monomax 6
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://s8x.hellotherepadawan.org:9313/v5/2OuVHFMThw68QDKF0PWSNQ/1756821982/eb79b2290aed13cdd693ebbf408b324d/C8hdcZpYKwtfAdtiNu7HTA/1756832662/live/lx-origin/th-monomax06bkp_720/chunks.m3u8
-
-EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax07bkp.png" group-title="Liga Inggris EPL",Monomax 7
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e101.hellotherepadawan.org/v5/TcgYF4JMs4NA8zxCygsLwQ/1756822171/0c97fa64d36e19348bb46d25cd9d737e/CFFVc8wUnkDXscdCXJIMTw/1756832851/live/lx-origin/th-monomax07bkp_720/chunks.m3u8
-
-EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/th-monomax08bkp.png" group-title="Liga Inggris EPL",Monomax 8
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://e106.hellotherepadawan.org/v5/QcIfkfDInX2OHWjSZron9g/1756822354/eb79b2290aed13cdd693ebbf408b324d/3S_bJnsD-qpY_2OufiCodw/1756833034/live/lx-origin/th-monomax08bkp_720/chunks.m3u8
 
 =================================================== LIGA BOLA EROPA ====================================================
 grp logo = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsnzmOQXolLIUTaB4722dMH5uQE4xom12ZSedR44XyrazXB2okwOKs3RZC_GUlu5pVaLE&usqp=CAU

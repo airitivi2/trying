@@ -42,7 +42,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 LIVE EVENT
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/live.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/epl.png", 18/04|18.30| Brentford vs Fulham
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/live.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/epl.png", 18/04[18.30] Brentford vs Fulham
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -50,28 +50,28 @@ LIVE EVENT
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/epl.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/epl.png", 18/04|21.00| Newcastle United vs AFC Bournemouth
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/epl.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/epl.png", 18/04[21.00] Newcastle United vs AFC Bournemouth
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/epl.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/epl.png", 18/04|23.30| Tottenham Hotspur vs Brighton & Hove Albion
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/epl.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/epl.png", 18/04[23.30] Tottenham Hotspur vs Brighton & Hove Albion
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/epl.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/epl.png", 19/04|02.00| Chelsea vs Manchester United
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/epl.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/epl.png", 19/04[02.00] Chelsea vs Manchester United
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/SerieA.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/SerieA.png", 18/04|01.45| Internazionale vs Cagliari
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/SerieA.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/SerieA.png", 18/04[01.45] Internazionale vs Cagliari
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/SerieA.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/SerieA.png", 18/04|23.00| Napoli vs Lazio
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/SerieA.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/SerieA.png", 18/04[23.00] Napoli vs Lazio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -79,7 +79,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/bundesliga.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/bundesliga.png", 18/04|01.30| St. Pauli vs Köln
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/bundesliga.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/bundesliga.png", 18/04[01.30] St. Pauli vs Köln
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.m3u8
 ----
@@ -89,14 +89,14 @@ https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/bundesliga.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/bundesliga.png", 18/04|20.30| Bayer Leverkusen vs Augsburg
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/bundesliga.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/bundesliga.png", 18/04[20.30] Bayer Leverkusen vs Augsburg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/bundesliga.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/bundesliga.png", 18/04|23.30| Eintracht Frankfurt vs RB Leipzig
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/bundesliga.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/bundesliga.png", 18/04[23.30] Eintracht Frankfurt vs RB Leipzig
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.m3u8
 ----

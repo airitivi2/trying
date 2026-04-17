@@ -42,7 +42,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 LIVE EVENT
 
-#EXTINF:-1 group-logo="https://github.com/airitivi2/trying/blob/main/live.png" group-title="Live Event" tvg-logo="https://github.com/airitivi2/trying/blob/main/epl.png", 19 April 22.30 Manchester City vs Arsenal
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/live.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/epl.png", 19/04 22.30 Manchester City vs Arsenal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd

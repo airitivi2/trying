@@ -12,9 +12,8 @@ LIVE EVENT
 
 ########## EPL ##########
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/live.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/epl.png",19/04[20.00] Everton vs Liverpool
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7
-https://sky-nz.b-cdn.net/skysport4/master.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36
+https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/live.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/epl.png",19/04[20.00] Aston Villa vs Sunderland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/537.36

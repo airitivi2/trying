@@ -12,138 +12,6 @@ LIVE EVENT
 
 
 
-########## 26-27/04 ##########
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/live.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/motogp.png",26/04[14.40] MotoGP Warm Up
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
----
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kilatlive.net
-https://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_TNT_SPORTS_2_TV/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/live.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/motogp.png",26/04[16.00] Moto3 Race
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
----
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kilatlive.net
-https://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_TNT_SPORTS_2_TV/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/live.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/motogp.png",26/04[17.15] Moto2 Race
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
----
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kilatlive.net
-https://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_TNT_SPORTS_2_TV/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/live.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/SerieA.png",26/04[17.30] Fiorentina vs Sassuolo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/live.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/motogp.png",26/04[19.00] MotoGP Race
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
----
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kilatlive.net
-https://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_TNT_SPORTS_2_TV/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/live.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/SerieA.png",26/04[20.00] Genoa vs Como
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/live.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/bundesliga.png",26/04[20.30] Stuttgart vs Werder Bremen
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.m3u8
-----
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/live.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/facup.png",26/04[21.00] Chelsea vs Leeds United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/live.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/ligue1.png",26/04[22.15] Paris vs Lille
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/live.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/bundesliga.png",26/04[22.30] Borussia Dortmund vs Freiburg
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.m3u8
-----
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/live.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/SerieA.png",26/04[23.00] Torino vs Internazionale
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/live.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/Laliga.png",26/04[23.30] Osasuna vs Sevilla
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd 
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/live.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/SerieA.png",27/04[01.45] Milan vs Juventus
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/live.png" group-title="Live Event" tvg-logo="https://raw.githubusercontent.com/airitivi2/trying/refs/heads/main/Laliga.png",27/04[02.00] Villarreal vs Celta de Vigo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd 
-
-
 =============== TOP GROUP =================
 
 #EXTINF:-1 group-logo="https://simg.nicepng.com/png/small/213-2134006_logo-englische-fuballliga-premier-league.png" group-title="Liga Inggris EPL" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Premier League TV - Dazn
@@ -342,8 +210,11 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9182&type=drm
-https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9182&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash
+#https://pidio.becek.workers.dev/9182.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9182&type=dash
+#https://aspaltvpasti.top/11111/9182.mpd
 
 #EXTINF:-1 group-title="Liga Inggris EPL"  tvg-logo="https://thumbor.prod.vidiocdn.com/5uxtD9zKbgyCgAjpj6W3TwkqO2A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png", CTV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -353,8 +224,11 @@ https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9183&type=drm
-https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9183&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash
+#https://pidio.becek.workers.dev/9183.mpd
+#https://cukimay.mahkotaiptv.workers.dev/play.mpd?id=9183&type=dash
+#https://aspaltvpasti.top/11111/9183.mpd
 
 #EXTINF:-1 group-title="Liga Inggris EPL" tvg-logo="https://i.ibb.co.com/JwZ1RxfF/mono29.png" tvg-id="MONO29.th" , MONO 29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
